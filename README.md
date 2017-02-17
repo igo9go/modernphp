@@ -10,8 +10,8 @@
 本书未加上课后练习，如有兴趣，可上原书网站练习。
 
 ###地址
-github 地址: https://github.com/facert/python-data-structure-cn
-gitbook 在线浏览: https://facert.gitbooks.io/python-data-structure-cn
+github 地址: https://github.com/igo9go/modernphp
+gitbook 在线浏览: https://www.gitbook.com/book/igo9go/-php/details
 
 
 
