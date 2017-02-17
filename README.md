@@ -14,7 +14,7 @@ gitbook 在线浏览: https://www.gitbook.com/book/igo9go/-php/details
 
 ## 联系作者
 微信：
-微信交流群：148647580
+微信交流群：
 
 ###捐赠
 
