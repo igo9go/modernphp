@@ -22,6 +22,5 @@ AliPay: <img src="http://oc9orpe44.bkt.clouddn.com/17-2-17/25302389-file_1487319
 
 微信支付:<img src="http://oc9orpe44.bkt.clouddn.com/17-2-17/84635262-file_1487318515853_3eb6.png" alt="alipay" width="100" height="100">
 
-![](http://oc9orpe44.bkt.clouddn.com/17-2-17/84635262-file_1487318515853_3eb6.png)
 #### 许可证
 本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可。传播此文档时请注意遵循以上许可协议。 关于本许可证的更多详情可参考 http://               creativecommons.org/licenses/by-sa/4.0/
