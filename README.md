@@ -17,7 +17,7 @@ gitbook 在线浏览: https://www.gitbook.com/book/igo9go/-php/details
 微信：<img src="http://oc9orpe44.bkt.clouddn.com/17-2-17/25302389-file_1487319769081_10ea7.png" height="100">
 
 微信交流群：
-AliPay: <img src="http://oc9orpe44.bkt.clouddn.com/17-2-17/25302389-file_1487319769081_10ea7.png" alt="alipay" width="100" height="100">
+
 
 ###捐赠
 
