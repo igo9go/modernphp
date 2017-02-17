@@ -28,9 +28,8 @@ gitbook 在线浏览: https://facert.gitbooks.io/python-data-structure-cn
 
 
 ## 联系作者
-
-
-微信群群：148647580
+微信：
+微信交流群：148647580
 
 BBS：[http://golanghome.com/](http://golanghome.com/)
 
