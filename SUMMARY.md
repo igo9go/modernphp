@@ -56,6 +56,7 @@
   * [9.1 Linux常用命令](09.1.md)
 * [10.Nginx服务器 ](10.0.md)
   * [10.1 nginx服务器配置](10.1.md)
+  * [10.2 OpenResty](10.2.openresty.md)
 * [11.Mysql数据库](11.0.md)
   * [11.1 常用sql语句](11.1.md)
   * [11.2 数据库结构优化](11.2.md)
@@ -76,5 +77,4 @@
 * [laravel核心概念](laravel.md)
 * [NSQ：分布式的实时消息平台](nsqff1a-fen-bu-shi-de-shi-shi-xiao-xi-ping-tai.md)
 * [微服务](wei-fu-wu.md)
-* [OpenResty](openresty.md)
 
